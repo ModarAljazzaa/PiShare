@@ -48,4 +48,4 @@ ENV DATA_DIR=/data
 ENV GIN_MODE=release
 
 # Run the app
-CMD ["./file-manager"]
+CMD ["./pishare"]
